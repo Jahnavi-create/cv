@@ -1,0 +1,29 @@
+h2 {
+  color: #132c33;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.Profilepic {
+  border-radius: 200%;
+  height: 150px;
+  width: 150px;
+  margin: 30px;
+  border: solid 1.5px;
+}
+body {
+  background-color: #d8e3e7;
+  text-align: center;
+}
+table {
+  text-align: center;
+  margin: auto;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 3px;
+  width: 50%;
+  margin-top: 20px;
+}
+form {
+  text-align: left;
+}
